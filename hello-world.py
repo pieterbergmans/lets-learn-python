@@ -1,1 +1,1 @@
-print('Cool! We are learning python and I hope this works')
+print('Yes, we\'re learning python together!!! Nice work!')
