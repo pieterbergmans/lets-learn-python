@@ -52,3 +52,5 @@ while functionChoice != '6':
 
 
 print("\nThis is the end of the script. Thank you")
+
+print("\nThis is a test from July 21st to see if I can remember how to use Github")
